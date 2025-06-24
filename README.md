@@ -4,8 +4,6 @@
 **Empowering citizens to report community issues and connecting them with contractors through blockchain technology**
 </div>
 
----
-
 ## 🌟 What is Zavira?
 
 **Zavira** transforms how communities solve problems by creating a blockchain-powered ecosystem where:
