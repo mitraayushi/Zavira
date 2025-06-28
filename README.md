@@ -1,3 +1,6 @@
+   -    NOTE FOR APTOS VERSION -> https://zavira-aptos.vercel.app/
+  -----
+
 # 🌍 Zavira: Building Better Communities Together
 
 <div align="center">
